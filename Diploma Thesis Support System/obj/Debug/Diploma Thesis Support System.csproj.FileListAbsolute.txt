@@ -1,0 +1,45 @@
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\ApplicationInsights.config
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Diploma Thesis Support System.dll.config
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Diploma Thesis Support System.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Diploma Thesis Support System.pdb
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Antlr3.Runtime.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\EntityFramework.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\EntityFramework.SqlServer.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.Web.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Newtonsoft.Json.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Helpers.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Mvc.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Optimization.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Razor.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\WebGrease.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\EntityFramework.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\EntityFramework.SqlServer.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Helpers.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Mvc.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Optimization.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.Razor.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Antlr3.Runtime.pdb
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Newtonsoft.Json.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\bin\Microsoft.AI.Web.xml
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.dll
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.pdb

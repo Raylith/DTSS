@@ -7,18 +7,16 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace Diploma_Thesis_Support_System.Models
 {
-    public class Person
+    public class Review
     {
-        public int ID { get; set; }
-        public string firstName { get; set; }
-        public string lastName { get; set; }
-        public string contactInformation { get; set; }
+        public int reviewID { get; set; }
+        public string reviewContent { get; set; }
 
     }
 
-    public class PersonDBContext : DbContext
+    public class ReviewDBContext : DbContext
     {
-        public DbSet<Person> people { get; set; }
+        public DbSet<Review> reviews { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

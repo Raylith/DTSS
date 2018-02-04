@@ -43,3 +43,4 @@ C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Suppor
 C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.csproj.CoreCompileInputs.cache
 C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.dll
 C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.pdb
+C:\Users\Patryk\source\repos\Diploma Thesis Support System\Diploma Thesis Support System\obj\Debug\Diploma Thesis Support System.csprojResolveAssemblyReference.cache
